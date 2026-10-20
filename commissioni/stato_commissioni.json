@@ -1,0 +1,148 @@
+{
+ "ultimo_controllo": "2026-10-20",
+ "sedute": [
+  {
+   "data": "19/10/2026",
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6502",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg Sc PNIEC n.85 Prot. 217115 del 22.10.26",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1440",
+     "sha256": "8da221a557e2d952ff5494086594b2cedeb5d025f95f7b8b5ddfa5f4b7d49e16"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "19/10/2026",
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6503",
+   "pdf": [
+    {
+     "titolo": "Convoc Ass Plenaria n. 184 del 22.10.2026",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1441",
+     "sha256": "14c94c5d2f22b86bbf05c7ed971b443823886a0b8d866f3e74879b2f78fb8976"
+    }
+   ],
+   "corrispondenze": [
+    {
+     "classificazione": "NEI NOSTRI COMUNI (non confermato)",
+     "progetto_nostro": "Energia Sorano",
+     "pdf": "https://va.mite.gov.it/File/DocumentoPortale/1441",
+     "pagina": 1,
+     "comune": "Ischia di Castro (VT)"
+    }
+   ]
+  },
+  {
+   "data": "15/10/2026",
+   "titolo": "OdG prossima seduta VIA",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6490",
+   "pdf": [
+    {
+     "titolo": "NUOVO ODG SCVIA n. 71 del 19-10-2026",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1439",
+     "sha256": "a28146b49c5bbf4dd766eec9d0ec5f02f60ef394841e74f04ee773894033e983"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "13/10/2026",
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6483",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg Plenaria n.183",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1437",
+     "sha256": "bc0f07002ad8f7414e77068a92f2663244f63557fbc27ef4fbf160080e89df4c"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "12/10/2026",
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6481",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg SC PNRR n.80",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1435",
+     "sha256": "ef79f457bbda90583d8341276c370709d90e05261067ce85a19d159021b43321"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "12/10/2026",
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6482",
+   "pdf": [
+    {
+     "titolo": "Convocazione SC PNIEC n. 84",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1436",
+     "sha256": "1f610d79da27d96249b67e5a61f6629440fe38b214004936c81841249d1c3073"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "07/10/2026",
+   "titolo": "OdG prossima seduta VIA, e Plenaria CTVA",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6467",
+   "pdf": [
+    {
+     "titolo": "ODG SCVIA n. 70 RETT",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1434",
+     "sha256": "baa6dd304548fada5b3e782a09ad07a940eaa8777f1ea74e834ed488521c7a90"
+    },
+    {
+     "titolo": "ODG plenaria n.51",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1432",
+     "sha256": "31348691305421b0dcfac1d6ce774e4b82ef06d1f188ed814de8eaeda50202fb"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "06/10/2026",
+   "titolo": "Revisione OdG prossima seduta Plenaria PNIEC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6464",
+   "pdf": [
+    {
+     "titolo": "Revisione Convocazione Assemblea Plenaria n. 182",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1431",
+     "sha256": "c614cd9e185417c75361cdfc51019875a8927a96f1baeb5f61a02bbcf9416f53"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "05/10/2026",
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6460",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg SC PNRR n.79",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1426",
+     "sha256": "747e117021a13d3ecbf0cff6164c8ac1c071b38fe10865c512a4dc7ef6f31155"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "05/10/2026",
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6461",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg Sc PNIEC n.83",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1428",
+     "sha256": "fa3d605de2a63b4b9bb936b1f21d020728aceec4100ef6c01249e862609b5d19"
+    }
+   ],
+   "corrispondenze": []
+  }
+ ]
+}
