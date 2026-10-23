@@ -219,6 +219,61 @@
    "prima_segnalazione": "2026-10-22",
    "titolo": "Bruncu 'e Niada (Econergy, Ballao/Armungia, 14 WTG) - nota CFVA Cagliari 14/07/2022",
    "indirizzo": "https://va.mite.gov.it/File/Documento/705162"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Energia Monte Pizzinnu - descrizione fasi/tempi opere civili (giu 2022; Bessude, Borutta, Ittiri, Thiesi)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/738893"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Energia Monte Pizzinnu - tavola aerogeneratore tipo e segnalazione aerea",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/738904"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Parco eolico Sud Iglesiente (Sorgenia), Villamassargia - trasmissione pareri RAS al MASE 11/08/2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/889213"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Parco eolico Villamassargia (Sorgenia) - elaborato SR-VI-RC11, 11/04/2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/869367"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Parco eolico Astia (Sardeolica), Villamassargia - prime indicazioni sicurezza (ott 2022)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/807447"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Monte Pelao IVPC Power 8 - analisi anemologica (dic 2022)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/799265"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "Monte Pelao IVPC Power 8 - osservazioni LIPU Sardegna 11/04/2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/829548"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "[scartato] Serra Joni (ID 10986), parere RAS 17/04/2024: comuni non presidiati",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1022574"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "[scartato] Parco eolico Aregu (Giave, Cossoine, Cheremule): comuni non presidiati",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/825909"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "[scartato] Parco eolico San Nicola (Sicilia): omonimo",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1121239"
+  },
+  {
+   "prima_segnalazione": "2026-10-23",
+   "titolo": "[scartato] Parco eolico Sa Costa (Mores, Ittireddu, Nughedu San Nicolò, Bonorva): comuni non presidiati",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1019546"
   }
  ],
  "progetti_fred_olsen_noti": {
@@ -292,6 +347,15 @@
     "Musei"
    ],
    "fonte": "https://va.mite.gov.it/File/Documento/735129 (avviso al pubblico, testo letto il 2026-10-16)"
+  },
+  "Energia Monte Pizzinnu": {
+   "comuni": [
+    "Bessude",
+    "Borutta",
+    "Ittiri",
+    "Thiesi"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/738893 (testo letto il 2026-10-23: intestazione 'Comuni di Bessude, Borutta, Ittiri e Thiesi (SS)'; altri documenti collocano gli aerogeneratori solo a Bessude e Borutta)"
   }
  }
 }
