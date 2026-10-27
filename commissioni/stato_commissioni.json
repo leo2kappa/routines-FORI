@@ -1,6 +1,47 @@
 {
- "ultimo_controllo": "2026-10-20",
+ "ultimo_controllo": "2026-10-27",
  "sedute": [
+  {
+   "data": "26/10/2026",
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6519",
+   "pdf": [
+    {
+     "titolo": "Assemblea Plenaria n. 185 del 29.10.2026",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1443",
+     "sha256": "0eb246d3f106c94d4acbafb01276f94feb8f10a13d334fb71c6cb18611be9f94"
+    }
+   ],
+   "corrispondenze": [
+    {
+     "classificazione": "FRED. OLSEN",
+     "progetto_nostro": "Energia Monte San Pacifico (ID 8810)",
+     "pdf": "https://va.mite.gov.it/File/DocumentoPortale/1443",
+     "pagina": 2,
+     "comune": "San Severino Marche, Serrapetrona, Castelraimondo, Camerino (MC)"
+    },
+    {
+     "classificazione": "FRED. OLSEN",
+     "progetto_nostro": "Energia Caldarola (ID 9257)",
+     "pdf": "https://va.mite.gov.it/File/DocumentoPortale/1443",
+     "pagina": 2,
+     "comune": "Caldarola, Camerino (MC)"
+    }
+   ]
+  },
+  {
+   "data": "26/10/2026",
+   "titolo": "OdG prossima seduta SC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6514",
+   "pdf": [
+    {
+     "titolo": "Assemblea SC-PNRR n. 81 del 29.10.2026",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1442",
+     "sha256": "630fa0718a44e7837386aea5655dfbc3a121bd4f1a75b1def001b9ff59fa2675"
+    }
+   ],
+   "corrispondenze": []
+  },
   {
    "data": "19/10/2026",
    "titolo": "OdG prossima seduta SC PNIEC",
