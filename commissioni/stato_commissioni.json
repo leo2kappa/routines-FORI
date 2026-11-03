@@ -1,6 +1,45 @@
 {
- "ultimo_controllo": "2026-10-28",
+ "ultimo_controllo": "2026-11-03",
  "sedute": [
+  {
+   "data": "02/11/2026",
+   "titolo": "OdG prossima seduta Plenaria PNIEC-PNRR",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6527",
+   "pdf": [
+    {
+     "titolo": "Convocazione Odg Plenaria n.186 Prot. 227326 del 5.11.26",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1445",
+     "sha256": "781f21b97c3c07ec8d2d9bea0c17377aee222bb910cca1336ee236ed5af4acf3"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "02/11/2026",
+   "titolo": "OdG prossima seduta SC PNIEC",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6530",
+   "pdf": [
+    {
+     "titolo": "OdG Convocazione SC PNIEC n. 87 del 5 novembre 2026 Prot. n. 227639 del 02.11.26",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1447",
+     "sha256": "7064f3ec9cbb14ea93441819f2aa1a7ffaad9f6de46de24e06eb181408ee1590"
+    }
+   ],
+   "corrispondenze": []
+  },
+  {
+   "data": "02/11/2026",
+   "titolo": "OdG prossima seduta VAS CTVA",
+   "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6531",
+   "pdf": [
+    {
+     "titolo": "ODG VAS n. 15 del 06.11.26-PROT",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1449",
+     "sha256": "294c193f66c8cb48e69d6bd5aab2634a8a8a40d5e4f8177d8fb72a12e84997f9"
+    }
+   ],
+   "corrispondenze": []
+  },
   {
    "data": "27/10/2026",
    "titolo": "OdG prossima seduta SC PNIEC",
