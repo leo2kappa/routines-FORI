@@ -1,5 +1,5 @@
 {
- "ultimo_controllo": "2026-11-05",
+ "ultimo_controllo": "2026-11-06",
  "sedute": [
   {
    "data": "04/11/2026",
@@ -7,9 +7,9 @@
    "indirizzo": "https://va.mite.gov.it/it-IT/Comunicazione/DettaglioCommissioniTecniche/6534",
    "pdf": [
     {
-     "titolo": "ODG SCVIA n. 72 del 9-11-2026-PROT",
-     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1450",
-     "sha256": "024585479b7155e7bb98c13eec4500ff443e1ffc75c96a9e157e42f01ff5bc3c"
+     "titolo": "NUOVO ODG SCVIA n. 72 del 9-11-2026-PROT",
+     "indirizzo": "https://va.mite.gov.it/File/DocumentoPortale/1451",
+     "sha256": "c48353544f21ff19df081eac240f265091de1c799e93538049f68aaafd5d7bc1"
     }
    ],
    "corrispondenze": []
