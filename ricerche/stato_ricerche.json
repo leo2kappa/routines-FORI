@@ -1204,6 +1204,76 @@
    "prima_segnalazione": "2026-11-04",
    "titolo": "[non aperto] documento VIA MASE emerso dalle ricerche, pertinenza non verificata (limite 15 pagine)",
    "indirizzo": "https://va.mite.gov.it/File/Documento/662771"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "Energia Monte Taccu - osservazioni LIFE Safe for Vultures (Univ. Sassari) 03/07/2023, ZPS Monte dei Sette Fratelli",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/864360"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "Energia Monte Taccu - SIA (FORI-SNG-RA9, IAT), comuni San Nicolò Gerrei, Armungia, Ballao, Escalaplano, Esterzili, Seui, Silius",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/825092"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "SAR007 (Fred. Olsen, Narcao) - valutazione preliminare risorsa eolica apr 2022",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/734997"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "Laccanu (Queequeg Renewables Due, 61,2 MW, Bessude/Ittiri/Thiesi/Banari) - piano di manutenzione 23/11/2023",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1051691"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "Sedda Perdonau Wind (13 WTG, 78 MW; San Nicolò Gerrei, Dolianova, Serdiana, Sant'Andrea Frius) - Unione Sarda 21/08/2024",
+   "indirizzo": "https://www.unionesarda.it/news-sardegna/provincia-cagliari/il-progetto-del-parco-di-sedda-perdonau-wind-srl-deve-essere-bloccato-qbrfgyyu"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "Osservazioni di terzi 06/04/2023 su Torcello wind: cita Energia Viterbo (Montefiascone, Celleno, Viterbo)",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/829045"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] Acquaforte 47,6 MW (Celleno, Montefiascone, Viterbo): proponente non Fred. Olsen",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/897062"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] osservazioni WWF Savona: progetto ligure",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/1060198"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] Gualdo Tadino 62 MW: non Fred. Olsen",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/946192"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] Gualdo Tadino, lettera Unione Montana Potenza Esino Musone",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/962562"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] Narbonis (San Gavino Monreale): comune non presidiato",
+   "indirizzo": "https://va.mite.gov.it/File/Documento/782419"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[scartato] Sorgenia 48 MW Collinas (Unione Sarda 20/07/2023): comuni non presidiati",
+   "indirizzo": "https://www.unionesarda.it/news-sardegna/medio-campidano/medio-campidano-lassedio-eolico-di-sorgenia-e6dexwrj"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[non aperto] Consiglio regionale Umbria, Energia della Valnerina/Montebibico (503 e certificato scaduto)",
+   "indirizzo": "https://consiglio.regione.umbria.it/node/80765/printable/pdf"
+  },
+  {
+   "prima_segnalazione": "2026-11-09",
+   "titolo": "[non aperto] Consiglio regionale Umbria, nodo collegato (503)",
+   "indirizzo": "https://consiglio.regione.umbria.it/node/80717/printable/pdf"
   }
  ],
  "progetti_fred_olsen_noti": {
@@ -1286,6 +1356,20 @@
     "Thiesi"
    ],
    "fonte": "https://va.mite.gov.it/File/Documento/738893 (testo letto il 2026-10-23: intestazione 'Comuni di Bessude, Borutta, Ittiri e Thiesi (SS)'; altri documenti collocano gli aerogeneratori solo a Bessude e Borutta)"
+  },
+  "Energia Viterbo": {
+   "comuni": [
+    "Montefiascone",
+    "Celleno",
+    "Viterbo"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/829045 (osservazioni di terzi 06/04/2023 che citano l'istanza VIA del 05/04/2022; non è il testo del proponente)"
+  },
+  "SAR007 (codice interno, non nel file)": {
+   "comuni": [
+    "Narcao"
+   ],
+   "fonte": "https://va.mite.gov.it/File/Documento/734997 (valutazione risorsa eolica apr 2022; rapporto con Energia Is Coris da confermare)"
   }
  }
 }
